@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/luy/下载/confs-confs/vim/vim'
+let g:netrw_dirhist_2='/home/luy/download/eclipse/readme'
+let g:netrw_dirhist_3='/etc/texmf/updmap.d'
+let g:netrw_dirhist_4='/home/luy/c_files/cmd/temp'
+let g:netrw_dirhist_5='/home/luy/.vim/bundle/jedi/test'
+let g:netrw_dirhist_6='/home/luy/c_files/experi/social-ties/libsvm'
+let g:netrw_dirhist_7='/home/luy/c_files/experi/social-ties/naiveBayes'
